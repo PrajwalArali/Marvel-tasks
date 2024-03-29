@@ -6,6 +6,7 @@ Learn the basics of javascript and create a small webpage which takes the names 
 
 Task 02 : Async JS
 Learn about asynchronous javascript and implement a small callback based program that displays the steps of a food recipe (consisting of at least 10 steps).
+https://youtu.be/OSiIl3w60R8?si=l6lyAyCXuaxcwWdJ
 
 Task 03 : Promises
 Implement the above recipe program with promises and list the potential benefits and improvements of using the same
