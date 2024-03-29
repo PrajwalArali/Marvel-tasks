@@ -3,6 +3,7 @@ Learn the basics of javascript and create a small webpage which takes the names 
 1)Percentage of each student
 2)Class average
 3)Rankings of the students
+https://youtu.be/4yil4PL7gjo?si=qoRpBNlxKppE1_Zc
 
 Task 02 : Async JS
 Learn about asynchronous javascript and implement a small callback based program that displays the steps of a food recipe (consisting of at least 10 steps).
