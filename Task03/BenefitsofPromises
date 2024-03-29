@@ -1,0 +1,6 @@
+Potential benefits of using promises over async:
+1. Promises are easy to read and understand.
+2. Promises have .catch() method which helps in erorr handling.
+3. Promises have .then() method which organises code.
+4. Promises are structured way, hence code is easily manageable.
+5. Promises help reduce the problem of callback hell.
