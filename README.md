@@ -76,9 +76,11 @@ Objective of the task is to get familiar with the process of setting up a local 
 
 ## Task 8 - Introduction to Cybersecurity
 Basics of cybersecurity: confidentiality, integrity, availability (CIA)
+
 <img width="442" alt="Task08 cyber" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/e4eb4b25-5d27-43b0-b55c-97e2a119bebf">
 
 Common types of cyber threats: malware, phishing, social engineering
+
 <img width="415" alt="Task08 cyber2" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/2777bb4a-2b7a-4497-9f8e-a7e00ebe78ea">
 
 Overview of cybersecurity frameworks and standards
@@ -88,15 +90,6 @@ Overview of cybersecurity frameworks and standards
 Hands on:-
 
 The objective is to introduce Crypotography . At the end you should be able to understand various ciphers and be able to decode them. Convert & document the following text into Caesar cipher, Pigpen cipher, Morse code, Rail fence cipher, Polybius cipher & Playfair cipher:
-<img width="574" alt="Task08 cyber3" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/8078415c-039b-4f3d-bddf-ca1f86c98112">
-
-
-
-
 Cybersecurity in Marvel
 
-
-
-
-
-
+<img width="574" alt="Task08 cyber3" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/8078415c-039b-4f3d-bddf-ca1f86c98112">
