@@ -55,3 +55,45 @@ into a text file and put it into a folder named logs. Zip this folder using gzip
 <img width="546" alt="Task 06 Zip" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/1a13f388-4152-4671-b954-e636390e147a">
 
 [Video for Reference](https://youtu.be/kFSnwajFHIA?si=ao2KDANjj1N03brm "YouTube")
+
+## Task 7 - Introduction to Cloud Computing
+Introduction to cloud computing, understanding its basic concepts, benefits, and components.
+<img width="475" alt="Task07 Cloud " src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/6b5592cc-3d99-4fd1-b835-b01b4e43ecbf">
+
+Dive into the three main cloud service models (IaaS, PaaS, SaaS) and explore their characteristics and examples.
+<img width="386" alt="Task07 Cloud 2" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/4a032947-e22c-40f5-9b85-91c5bbd9c0eb">
+
+Learn about the various deployment models (public, private, hybrid, community clouds) and when to use each.
+<img width="468" alt="Task07 cloud 3" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/6605ace6-1470-4b94-98ae-8966600df239">
+
+Research major cloud service providers (AWS, Azure, GCP) and their offerings.
+<img width="467" alt="Task07 Cloud 4" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/12bdcb8b-7e7e-4fce-bbed-6a36bf8013ea">
+
+Hands on:-
+Objective of the task is to get familiar with the process of setting up a local file sharing solution. At the end you should be able to share files between devices, and access shared files from different devices. Document the process along with necessary photographs.
+<img width="293" alt="Task07 Cloud 5" src="https://github.com/PrajwalArali/Marvel-tasks/assets/147275460/c5889a9d-f320-4954-baeb-d7acb2ee3d8e">
+
+
+## Task 8 - Introduction to Cybersecurity
+Basics of cybersecurity: confidentiality, integrity, availability (CIA)
+
+
+Common types of cyber threats: malware, phishing, social engineering
+
+
+
+Overview of cybersecurity frameworks and standards
+
+
+
+Hands on:-
+
+The objective is to introduce Crypotography . At the end you should be able to understand various ciphers and be able to decode them. Convert & document the following text into Caesar cipher, Pigpen cipher, Morse code, Rail fence cipher, Polybius cipher & Playfair cipher:
+
+Cybersecurity in Marvel
+
+
+
+
+
+
