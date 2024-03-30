@@ -1,0 +1,11 @@
+# Use the last command to display the last logins on the system
+last | 
+# Use grep to filter the output to only include lines that start with a letter
+grep "^[a-zA-Z]" | 
+# Use awk to print the 4th, 5th, and 6th columns of the filtered output
+awk '{print $4,$5,$6}' > 
+# Redirect the output to a file named "logins.txt" in the "logs" directory
+logs/logins.txt
+
+# Compress the "logs" directory into a tar archive file named "logs.tar.gz"
+tar -zcvf logs.tar.gz logs/
