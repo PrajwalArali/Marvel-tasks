@@ -1,0 +1,10 @@
+mkdir test  //creates folder named test
+cd test //change directory
+touch file1.txt //create file1
+touch file2.txt //create file2
+echo Hello>file1.txt // Hello is written in file1
+echo World>file2.txt // World is written in file2
+cat file1.txt file2.txt>file3.txt //Concatenate
+cat file3.txt // gives Hello World
+
+touch M{1..2600} // create 2600 files example:- M3,M78,M2471 etc
