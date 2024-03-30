@@ -20,6 +20,7 @@ Task 04 : Get familiar with the command line and do the following subtasks
 4)list the files in that folder
 5)create 2600 folders in this folder where each folder is named like . For example, M90 or B56.
 6)concatenate two text files containing any random text and display them on the terminal.
+https://youtu.be/kN7xMrnW7E8?si=SqoMCS_10iAkc04E
 
 Task 05 : VI
 Learn the basics of vi and create a markdown file in vi illustrating the various features of vi that you found to be fascinating.
