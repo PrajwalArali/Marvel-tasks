@@ -25,9 +25,10 @@ Implement the above recipe program with promises and list the potential benefits
 
 ## Task 05 : VI
 Learn the basics of vi and create a markdown file in vi illustrating the various features of vi that you found to be fascinating.
-[Video for Reference](https://youtu.be/6eMba_tVQ-A?si=B7OMWY3NKmcr0cQn "YouTube")
+[Video for Reference](https://youtu.be/Ys53X7RBo4E?si=QIaEvMLvjTEOaXm5 "YouTube")
 
 ## Task 06 : Linux Continued
 Learn the basics of regex and piping in Linux. Using the knowledge gained from the above two topics, learn how grep works.
 Use grep to extract login times within a date/time range from the login logs using the 'last' command. Pipe this information 
 into a text file and put it into a folder named logs. Zip this folder using gzip and tar.
+[Video for Reference](https://youtu.be/kFSnwajFHIA?si=ao2KDANjj1N03brm "YouTube")
